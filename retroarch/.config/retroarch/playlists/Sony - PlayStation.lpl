@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/patrickaldis/Games/retro/Final Fantasy VII (USA) (Disc 1).7z#Final Fantasy VII (USA) (Disc 1).bin",
+      "label": "Final Fantasy VII (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1459CBEF|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    }
+  ]
+}
